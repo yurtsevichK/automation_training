@@ -45,15 +45,15 @@ public class Task5 {
                 }
             case 10:
                 if (month == 10) {
-                    System.out.print("Сентябрь");
+                    System.out.print("Октябрь");
                 }
             case 11:
                 if (month == 11) {
-                    System.out.print("Сентябрь");
+                    System.out.print("Ноябрь");
                 }
             case 12:
                 if (month == 12) {
-                    System.out.print("Сентябрь");
+                    System.out.print("Декабрь");
                 }
         }
     }
