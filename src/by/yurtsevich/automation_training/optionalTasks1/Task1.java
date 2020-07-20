@@ -1,7 +1,5 @@
 package by.yurtsevich.automation_training.optionalTasks1;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class Task1 {
