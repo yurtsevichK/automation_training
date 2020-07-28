@@ -1,4 +1,4 @@
-package by.yurtsevich.automation_training.optionalTasks1;
+package by.yurtsevich.automation_training.java_fundamentals.optionalTasks1;
 
 import java.util.Arrays;
 import java.util.HashSet;

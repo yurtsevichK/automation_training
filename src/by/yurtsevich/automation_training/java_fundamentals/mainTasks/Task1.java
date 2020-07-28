@@ -1,4 +1,4 @@
-package by.yurtsevich.automation_training.mainTasks;
+package by.yurtsevich.automation_training.java_fundamentals.mainTasks;
 
 import java.util.Scanner;
 
